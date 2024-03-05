@@ -1,0 +1,25 @@
+.box1 {
+    background-color: #90ee90; 
+    width: 50%; 
+    height: 50%;
+}
+
+.parag {
+    color: white;
+    font-size: 25px; 
+    background-color: red; 
+    font-family: monospace; 
+    font-weight: bold;
+}
+
+.box2 {
+    width: 50%; 
+    height: 50vh; 
+    background-color: rgb(125, 218, 249)
+}
+
+.box3 {
+    width: 75vw; 
+    height: 50%; 
+    background-color: red;
+}
