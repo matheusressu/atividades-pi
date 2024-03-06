@@ -1,32 +1,32 @@
 .box0 {
-    background-color:#ffbf8b;
-    width: 500px; 
-    height: 500px;
+    background-color:#ff8b93;
+    width: 200px; 
+    height: 800px;
 }
 
 
 .box1 {
-    background-color: #90ee90; 
-    width: 50%; 
-    height: 50%;
+    background-color: #b3ba99; 
+    width: 70%; 
+    height: 20%;
 }
 
 .parag {
-    color: white;
-    font-size: 25px; 
-    background-color: red; 
-    font-family: monospace; 
-    font-weight: bold;
+    color: rgb(125, 186, 255);
+    font-size: 30px; 
+    background-color: rgb(33, 58, 52); 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+    font-weight: normal;
 }
 
 .box2 {
     width: 50%; 
-    height: 50vh; 
-    background-color: rgb(125, 218, 249)
+    height: 100vh; 
+    background-color: rgb(224, 249, 125)
 }
 
 .box3 {
     width: 75vw; 
     height: 50%; 
-    background-color: red;
+    background-color: rgb(26, 155, 89);
 }
